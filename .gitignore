@@ -121,4 +121,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+rebel.xml
+
 # End of https://www.gitignore.io/api/java,windows,eclipse
